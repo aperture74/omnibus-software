@@ -18,7 +18,7 @@
 
 name "veil-gem"
 default_version "master"
-source git: "https://github.com/aperture74/chef_secrets.git"
+source git: "https://github.com/chef/chef_secrets.git"
 
 license "Apache-2.0"
 license_file "LICENSE"
